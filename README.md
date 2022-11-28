@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Ujjwal Chauhan</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-
+<iframe src="https://giphy.com/embed/3oKIPEqDGUULpEU0aQ" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cartoon-character-2d-3oKIPEqDGUULpEU0aQ">via GIPHY</a></p>
 - 🔭 I’m currently working on **Python, MySQL and Tableau**
 
 - 📫 How to reach me **ujjwalchauhan@gmail.com**
